@@ -1,0 +1,7 @@
+/home/chlafen/develop/bigdata/tp1/wordcount/src/main/java/com/hadoop/mapreduce/totalmagasin/TokenizerMapper.java
+/home/chlafen/develop/bigdata/tp1/wordcount/src/main/java/com/hadoop/mapreduce/totalmagasin/TotalMagasin.java
+/home/chlafen/develop/bigdata/tp1/wordcount/src/main/java/com/hadoop/mapreduce/tp1/WordCount.java
+/home/chlafen/develop/bigdata/tp1/wordcount/src/main/java/com/hadoop/mapreduce/tp1/TokenizerMapper.java
+/home/chlafen/develop/bigdata/tp1/wordcount/src/main/java/com/hadoop/mapreduce/tp1/IntSumReducer.java
+/home/chlafen/develop/bigdata/tp1/wordcount/src/main/java/com/hadoop/mapreduce/Main.java
+/home/chlafen/develop/bigdata/tp1/wordcount/src/main/java/com/hadoop/mapreduce/totalmagasin/IntTotalReducer.java

@@ -1,0 +1,7 @@
+com/hadoop/mapreduce/totalmagasin/TokenizerMapper.class
+com/hadoop/mapreduce/tp1/TokenizerMapper.class
+com/hadoop/mapreduce/totalmagasin/IntTotalReducer.class
+com/hadoop/mapreduce/tp1/WordCount.class
+com/hadoop/mapreduce/tp1/IntSumReducer.class
+com/hadoop/mapreduce/totalmagasin/TotalMagasin.class
+com/hadoop/mapreduce/Main.class

@@ -1,0 +1,8 @@
+{
+  "args": [
+    "wordcount/src/main/resources/input/file.txt",
+    "wordcount/src/main/resources/output"
+  ],
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
